@@ -1,0 +1,3 @@
+MULTIPLY
+	PERMZ 1.5 /
+/

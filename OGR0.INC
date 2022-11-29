@@ -1,0 +1,4 @@
+GEFAC
+	'INJECAO'	0.96	/
+	'PRODUCAO'	0.96	/
+/
